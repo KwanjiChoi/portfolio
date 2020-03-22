@@ -9,7 +9,7 @@ font-family: 'M PLUS Rounded 1c', sans-serif;
 
 */
 
-body:before{
+body :before{
 	content: "";
 	display: block;
 	osition: fixed;
