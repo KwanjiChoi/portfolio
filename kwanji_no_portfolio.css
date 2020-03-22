@@ -9,7 +9,7 @@ font-family: 'M PLUS Rounded 1c', sans-serif;
 
 */
 
-body :before{
+body:before{
 	content: "";
 	display: block;
 	osition: fixed;
@@ -18,7 +18,8 @@ body :before{
 	z-index: -1;
 	width: 100%;
 	height: 100vh;
-	background-image: url('images/background-1503863_1280.jpg');
+	background-image: url('images/background-1503863_1280.jpg') center no-repiet;
+	background-size: cover;
 	
 	
 }
