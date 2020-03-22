@@ -9,5 +9,5 @@ window.addEventListener( "scroll", function() {
   } else {
     headerElement.classList.add('hidden');
   }
-} ) ;
+}) ;
 
