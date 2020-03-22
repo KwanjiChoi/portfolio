@@ -578,8 +578,8 @@ p{
 
 .fadeIn {
   opacity : 0;
-  transform: translateY(20px);
-  transition: 1s;
+  transform: translateY(100px);
+  transition: 1.5s;
 }
 
 
