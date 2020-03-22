@@ -10,6 +10,7 @@ font-family: 'M PLUS Rounded 1c', sans-serif;
 */
 
 body{
+
 	position: relative;
 	width:100%;
 	z-index: 0;
@@ -520,7 +521,7 @@ p{
 	}	
 	
 	.thanks .thank_you{
-		padding-top: 50px;
+		padding-top: 0px;
 		font-size: 60px;
 		font-family: 'Baloo 2', cursive;
 	}
